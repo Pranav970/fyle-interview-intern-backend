@@ -15,7 +15,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 Mako==1.1.5
 MarkupSafe==2.0.1
-marshmallow==3.13.0
+marshmallow==3.26.2
 marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.26.1
 packaging==21.0
